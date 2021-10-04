@@ -83,6 +83,9 @@
 		<Unit filename="D:/Programming/C++/5 Semestr/LABA1/main.cpp">
 			<Option target="LABA1"/>
 		</Unit>
+		<Unit filename="D:/Programming/C++/5 Semestr/LABA1/main_menu.h">
+			<Option target="LABA1"/>
+		</Unit>
 		<Unit filename="D:/Programming/C++/5 Semestr/LABA1/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
